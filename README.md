@@ -6,7 +6,8 @@ Ohje GPS-mittarin kierroslukumittarin kalibrointiin.
 
 ## Ohje video
 
-[Video](https://www.youtube.com/@TarvikemottiOy)
+[![Video kalibroinnista](https://img.youtube.com/vi/7mZxB2UGY-w/0.jpg)](http://www.youtube.com/watch?v=7mZxB2UGY-w)
+
 
 ## Alustus
 
@@ -16,7 +17,7 @@ Kytkemittari mukana tulleen ohjeen mukaisesti. Kytkentää varten tulee kytkeä 
 
 RPM signaalin voi ottaa mm. W-navasta, moottorin ohjaimelta tai muulta kierroslukumittarin anturilta. Malli videolla käytettiin HALL-anturia. Tällöin tarvitaan erikseen pullup vastus, jotta signaalissa on selvä luettava muutos mittarille.
 
-[Asennuskaavio HALL-anturilla.](gps_rpm_kytkenta.png)
+![Asennuskaavio HALL-anturilla.](gps_rpm_kytkenta.png)
 
 ## Kalibrointi
 
